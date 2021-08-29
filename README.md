@@ -2,6 +2,8 @@
 
 Deep feature consistent variational autoencoder 
 
+![./docs/DfcVae.png](./docs/DfcVae.png)
+
 ## About
 Repro of paper
 [Deep Feature Consistent Variational Autoencoder. Xianxu Hou et al.](https://arxiv.org/abs/1610.00291)
